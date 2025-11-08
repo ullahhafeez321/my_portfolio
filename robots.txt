@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ullahhafeez321.github.io/my_portfolio/sitemap.xml
